@@ -1,0 +1,11 @@
+#btn {
+  position: absolute;
+  width: 6%;
+  margin: 0.5vw 12.5vw;
+  padding: 1.3vw 6vw;
+  background: rgb(160, 36, 36);
+  border-radius: 3vw;
+  transition: 0.5s;
+  justify-content: center;
+  left: 0; /* Initial position */
+}
